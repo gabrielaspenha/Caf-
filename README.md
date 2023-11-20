@@ -11,7 +11,7 @@ A missão do FreeCodeCamp é ajudar as pessoas a aprender a programar de graça.
 🔖 Projeto
 
 Aprenda CSS do básico criando um menu de restaurante. 
-- [Viste o projeto online](https://https://gabrielaspenha.github.io/Coffee-Menu/)
+- [Viste o projeto online](https://gabrielaspenha.github.io/Coffee-Menu/)
 
 🚀 Tecnologias
 
