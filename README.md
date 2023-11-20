@@ -11,7 +11,7 @@ A missão do FreeCodeCamp é ajudar as pessoas a aprender a programar de graça.
 🔖 Projeto
 
 Aprenda CSS do básico criando um menu de restaurante. 
-- [Viste o projeto online](https://www.freecodecamp.org/portuguese/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91)
+- [Viste o projeto online](https://https://gabrielaspenha.github.io/Coffee-Menu/)
 
 🚀 Tecnologias
 
